@@ -1,0 +1,13 @@
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\bin\Debug\ejercicio1.xml
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.vbproj.AssemblyReference.cache
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.vbproj.SuggestedBindingRedirects.cache
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Resources.resources
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.vbproj.GenerateResource.cache
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.vbproj.CoreCompileInputs.cache
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.xml
+C:\Programas_Yossec\Estudios\visual_Basic\ejercicios\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
