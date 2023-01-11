@@ -12,6 +12,12 @@ Public Class Form1
 
     Private Sub ingresarPalabra(palabra As String)
 
+        'contains = recorre la palabra buscando las letrar del string
+        'Chars(0) = devuelve la letra en la posicion que se indique
+        'ToLower() = convierte en minuscula la palabra
+
+        'NOTA:
+        'el if, siempre ejecuta el codigo, no importa si este tiene simbolos de comparacion
 
         If "aeiou".Contains(palabra.ToLower().Chars(0)) Then
 
